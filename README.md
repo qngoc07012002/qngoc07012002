@@ -6,10 +6,10 @@
 I am a Junior Computer Science student at Greenwich University, passionate about researching AI, Computer Vision, and IoT.I have accumulated considerable experience working with algorithms applied in Computer Vision and aim to develop more optimized algorithms with lower complexity.My primary focus is converting these algorithms into efficient JavaScript libraries for website and mobile app deployment through NodeJS and ensuring their compatibility with IoT devices.I am a dedicated individual with a keen eye for detail, always seeking to improve and expand my skill set to deliver high-quality results.
 📫 How to reach me: tranquangduy246@gmail.com
    <p align="left">
-      <a href="https://github.com/EricTra?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EricTra?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/EricTra?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EricTra?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="https://github.com/qngoc07012002?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/qngoc07012002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/qngoc07012002?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/qngoc07012002?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
@@ -42,7 +42,7 @@ I am a Junior Computer Science student at Greenwich University, passionate about
 #
 
 <details>
- <summary><h3>👨‍💻 EricTra's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 qngoc07012002's Coding Journey</h3></summary>
   Update soon...
   
 
